@@ -635,7 +635,18 @@
 			height: calc(16 / 16 * 1rem);
 		}
 	}
+	#video-container{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		height: 40vh; /* Center vertically in the viewport */
+	}
+	.video {
+		max-width: 100%;
+		max-height: 100%;
+	}
 }
+
 
 /* Tablet - 768px */
 @media only screen and (min-width: 48em) {
