@@ -1,15 +1,15 @@
 {
-	"name": "Escape Hilo",
-	"email": "EscapeHilo@gmail.com",
-	"phoneForTel": "+18089699696",
-	"phoneFormatted": "+1 (808)969 9696",
+	"name": "Manner Media LLC",
+	"email": "Manner.Media.Biz@gmail.com",
+	"phoneForTel": "+6615328913",
+	"phoneFormatted": "+1 (661) 532 8913",
 	"address": {
-		"lineOne": "308 Kamehameha Ave #200",
-		"lineTwo": "Second Address Line",
-		"city": ", Hilo",
-		"state": ", HI ",
-		"zip": "96720",
-		"mapLink": "https://maps.app.goo.gl/CFzGhCBZn81wrN5L9"
+		"lineOne": "",
+		"lineTwo": "",
+		"city": "",
+		"state": "",
+		"zip": "",
+		"mapLink": ""
 	},
-	"domain": "escapehilo.com"
+	"domain": "https://MannerMedia.biz"
 }
