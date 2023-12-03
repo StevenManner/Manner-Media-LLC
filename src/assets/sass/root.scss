@@ -9,11 +9,11 @@
 	// Website colors
 	:root {
 		--primary: #7e00a5d0;
-		--primaryLight: #ffffff;
+		--primaryLight: #000000;
 		--secondary: #001f3f;
 		--secondaryLight: #001f3f;
 		--headerColor: #1a1a1a;
-		--bodyTextColor: #4e4b66;
+		--bodyTextColor: #111111;
 		--bodyTextColorWhite: #fafbfc;
 
 		/* 13px - 16px */
@@ -1553,16 +1553,7 @@
 	}
 }
 
-/* Dark Mode */
-@media only screen and (min-width: 0em) {
-	body.dark-mode {
-		#cta {
-			&:after {
-				display: none;
-			}
-		}
-	}
-}
+
 
 /*-- -------------------------- -->
 <---           Footer           -->
@@ -2230,11 +2221,3 @@
 	}
 }
 
-/* Dark Mode */
-@media only screen and (min-width: 0em) {
-	body.dark-mode {
-		#footer {
-			background: #061623;
-		}
-	}
-}
