@@ -1,14 +1,14 @@
 {
 	"name": "Manner Media LLC",
 	"email": "Manner.Media.Biz@gmail.com",
-	"phoneForTel": "+6615328913",
-	"phoneFormatted": "+1 (661) 532 8913",
+	"phoneForTel": "+808-785-1314",
+	"phoneFormatted": "+1 (808) 785 1314",
 	"address": {
 		"lineOne": "",
 		"lineTwo": "",
-		"city": "",
-		"state": "",
-		"zip": "",
+		"city": "Keaau",
+		"state": "HI",
+		"zip": "96749",
 		"mapLink": ""
 	},
 	"domain": "https://MannerMedia.biz"
